@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Terraform
+.terraform/
+.terraform.lock.hcl
+
+# OS
+.DS_Store
